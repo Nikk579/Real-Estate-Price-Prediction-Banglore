@@ -17,18 +17,9 @@ st.markdown(
         .css-fg4pbf {
     position: absolute;
     color: white;
-    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(100,43,115,1) 0%, rgba(4,0,4,1) 90% );
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
 }
-    p,span{
-    color: white;
-}
-    button{
-    color:black;
-    }
-   .css-1vbkxwb p {
-   color:black;
-   margin:auto;
-   }
    .stButton{
    display: flex;
     align-items: center;
